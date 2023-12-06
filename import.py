@@ -1,0 +1,20 @@
+from bangundatar import *
+persegi(4)
+persegipanjang(5,8)
+segitiga(4,2,5)
+belahketupat(4,4,8)
+lingkaran(7)
+jajargenjang(4,6,5)
+layanglayang(4,8,6,10)
+
+from perhitungan import *
+tambah(2,2)
+kurang(6,3)
+bagi(10,2)
+kali(4,3)
+pangkat(2,2)
+akar(25)
+log(9)
+sin(25)
+cos(30)
+tan(45)
